@@ -1,0 +1,10 @@
+Al iniciar el programa, lo primero es el login (usuario: xXxGranATuinxXx, contraseña: password. Encriptados en el archivo credenciales.txt en la carpeta principal).
+
+Luego aparecen dos tabs, una con el apartado de la creación de mundos disco y la otra con el apartado de listar (Que incluye las opciones de modificar y eliminar).
+
+TABS:
+1)Crear.
+En la opción de crear lo primero es el campo con el nombre de la tortuga. Luego, en la parte inferior se encuentra el botón de "Agregar Criatura" que nos abre una ventana donde podemos llenar los datos de la creatura que se añadirá. En esa misma ventana está la opción de "Agregar objeto mágico" el cual tomará el texto del campo de objetos mágicos y lo añadirá a la lista de objetos de la criatura que está creando en ese momento. Una vez agregadas las criaturas deseadas, el botón de "Crear Mundo" guardará los datos en el documento de texto.
+
+2)Listar.
+En esta tab tenemos como opción principal "Seleccionar mundo de la tortuga", que abre una ventana para seleccionar el archivo que desea abrir. Al seleccionarlo, aparecen los datos guardados en ese archivo, además de que la ruta aparece y queda disponible para el usuario en la parte superior. Luego están las opciones de modificar y eliminar. 
